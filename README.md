@@ -1,4 +1,4 @@
 # Demo-Project
 This is my first Git Repository.
 <br>
-Author - Mridul Saha
+Author - Mridul Saha (Student)
